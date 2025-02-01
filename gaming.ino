@@ -1,3 +1,7 @@
+// This code is for the purposes of:
+// https://mikrojebe.fi/posts/hacking-efergy-e2-for-home-assistant/
+// If the link is dead use wayback machine.
+
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
